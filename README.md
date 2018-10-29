@@ -1,6 +1,6 @@
-# Lab 8 - *Name of App Here*
+# Lab 8 - Tinder
 
-**Name of your app** is a mock Tindr app featuring gestures and custom transitions
+*Tinder** is a mock Tinder app featuring gestures and custom transitions
 
 Time spent: **X** hours spent in total
 
