@@ -26,7 +26,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tinder](https://user-images.githubusercontent.com/31720526/47961084-f7dd7200-dfc0-11e8-8f92-d1035dc5fb71.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
