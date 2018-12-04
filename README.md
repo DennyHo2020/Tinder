@@ -1,26 +1,14 @@
 # Lab 8 - Tinder
 
-*Tinder** is a mock Tinder app featuring gestures and custom transitions
+**Tinder** is a mock Tinder app featuring gestures and custom transitions
 
-Time spent: **X** hours spent in total
 
 ## User Stories
 
-The following **required** user stories are complete:
+Base Features & Functionality
 
-- [X] User can drag card using a pan gesture (+1pt)
-- [X] Card rotates as user pans (+1pt)
-- [ ] Card animates when user ends panning gesture (+2pt)
-- [ ] User can view profile - basic modal transition (+1pt)
-
-The following **stretch** user stories are implemented:
-
-- [ ] User can view profile - custom modal transition (+2pt)
-
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1.
-2.
+- User can drag card using a pan gesture 
+- Card rotates as user pans
 
 ## Video Walkthrough
 
@@ -30,13 +18,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Denny Ho]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
