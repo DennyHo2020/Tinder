@@ -1,4 +1,4 @@
-# Lab 8 - Tinder
+# Tinder
 
 **Tinder** is a mock Tinder app featuring gestures and custom transitions
 
